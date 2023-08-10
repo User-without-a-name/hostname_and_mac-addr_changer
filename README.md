@@ -1,4 +1,4 @@
-# hostname_and_mac-addr_changer
+# hostname_and_mac_changer
 
 This bash script allows you to conviniently change your Mac Address and/or Hostname, it uses the hostnamectl command and updates the /etc/hosts file to match the new hostname. It also provides an Option to schedule automatic hostname changes using crontab
 
