@@ -23,7 +23,7 @@ This bash script allows you to conviniently change your Mac Address and/or Hostn
   ***Exit***
   	Well, Gracefully Exits the script
   
- ## Usage
+## Usage
 
 1. Clone or download the repository to your local machine.
 
@@ -31,8 +31,17 @@ This bash script allows you to conviniently change your Mac Address and/or Hostn
 
 3. Run the script using `sudo` or as the root user
 
-4. ## Disclaimer
-5. This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes
+## Disclaimer
+ This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes
 
-6. ## Contribute
-7. Contributions are always welcome!
+## Contribute
+ Contributions are always welcome!
+
+## License
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+See 'LICENSE' for more information.
