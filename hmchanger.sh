@@ -118,7 +118,7 @@ case $option in
 	change_hostname
 	echo "New Hostname is $(hostname)"
 		;;
-     4) cat $PWD/$logfile;;
+     4) /usr/bin/cat $PWD/$logfile;;
      5) exit 0;;
 
 esac
