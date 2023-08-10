@@ -7,7 +7,8 @@ This bash script allows you to conviniently change your Mac Address and/or Hostn
 - This script requires superuser privileges to modify system settings. Make sure you run the script using `sudo` or as the root user.
 
 ## Features
- 
+ ![hmchanger](https://github.com/User-without-a-name/hostname_and_mac-addr_changer/assets/141948953/3150fee8-0609-422f-a6e2-bf1dea50d4fb)
+
   ***Manual Change Hostname and/or Mac address***
   	Choose your Hostname and/or Mac address to any Hostname or mac address you choose
   	
@@ -30,6 +31,8 @@ This bash script allows you to conviniently change your Mac Address and/or Hostn
 2. Open a terminal and navigate to the directory containing the script.
 
 3. Run the script using `sudo` or as the root user
+   chmod +x hmchanger.sh
+   sudo ./hmchanger.sh
 
 ## Disclaimer
  This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes
