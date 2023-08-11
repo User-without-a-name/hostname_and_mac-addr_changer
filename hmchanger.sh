@@ -24,7 +24,7 @@ if [ $EUID -ne 0 ]; then
 	exit 0
 fi
 
-#Checks if Script was run directly by user or cron by examining the variable PPID (Parent Process ID)
+#Checks if Script was run directly by user or cron by checking for an argument
 if [ "$1" = "from_cron" ]; then
 try=0
 	while [ $try -le 5 ]; do
